@@ -3,6 +3,9 @@
     <option name="recentPaths">
       <list>
         <option value="D:/szf" />
+        <option value="D:/sgdes" />
+        <option value="D:/szf/hkacs-test" />
+        <option value="D:/WEB-Pisc-board/tags/v0.0.1.a/hkacs" />
       </list>
     </option>
     <option name="openPaths">
@@ -14,18 +17,52 @@
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
+        <entry key="D:/WEB-Pisc-board/tags/v0.0.1.a/hkacs">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-191.6183.87" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557364555419" />
+              <option name="buildTimestamp" value="1553665102521" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/sgdes">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-191.6183.87" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557727344698" />
+              <option name="buildTimestamp" value="1553665090999" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/szf">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-191.6183.87" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1555643870448" />
-              <option name="buildTimestamp" value="1553665125386" />
+              <option name="projectOpenTimestamp" value="1557971851607" />
+              <option name="buildTimestamp" value="1553665106288" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/szf/hkacs-test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-191.6183.87" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557367141067" />
+              <option name="buildTimestamp" value="1553665133248" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
+    <option name="lastProjectLocation" value="D:/szf" />
   </component>
 </application>
